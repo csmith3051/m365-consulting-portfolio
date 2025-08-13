@@ -1,0 +1,58 @@
+# TEP Microsoft 365 Consultant Interview Preparation
+
+[![Interview Date](https://img.shields.io/badge/Interview-Next%20Week-green)](https://github.com/csmith3051/tep-microsoft365-consultant-prep)
+[![Preparation Status](https://img.shields.io/badge/Preparation-In%20Progress-blue)](https://github.com/csmith3051/tep-microsoft365-consultant-prep)
+
+## 🎯 Project Overview
+
+Comprehensive preparation for the Microsoft 365 Consultant role at **Tucson Electric Power (TEP)**, focusing on documentation, training, and enablement around Microsoft Copilot and Power BI for utility operations.
+
+**Role Details:**
+- **Position:** Microsoft 365 Consultant
+- **Client:** TEP (Tucson Electric Power)
+- **Focus:** Documentation, training, and user adoption
+
+## 🔍 Research & Analysis
+
+- [TEP Strategic Analysis](./docs/company-research/tep-strategic-analysis.md)
+- [Leadership Profile - Erik Keller, CIO](./docs/company-research/leadership-profile.md)
+- [Utility Industry Context](./docs/company-research/industry-context.md)
+
+## 🎤 Interview Strategy
+
+- [Key Talking Points](./docs/interview-strategy/talking-points.md)
+- [Scenario Responses](./docs/interview-strategy/scenarios.md)
+- [Questions to Ask](./docs/interview-strategy/questions-to-ask.md)
+
+## 📊 Power BI Demonstrations
+
+- [Grid Reliability Dashboard](./power-bi-samples/dashboard-designs/grid-reliability-mockup.md)
+- [Renewable Energy Integration](./power-bi-samples/dashboard-designs/renewable-integration-mockup.md)
+- [Customer Analytics](./power-bi-samples/dashboard-designs/customer-dashboard-mockup.md)
+- [DAX Calculations](./power-bi-samples/dax-calculations/)
+
+## 📚 Documentation Examples
+
+- [Training Curriculum](./docs/deliverables/training-curriculum/)
+- [Documentation Templates](./docs/deliverables/documentation-templates/)
+- [Change Management Framework](./docs/deliverables/change-management-framework/)
+
+## 🎓 Learning Progress
+
+- **DataCamp Courses:** Power BI fundamentals, data visualization, DAX
+- **Microsoft Learn:** Copilot adoption, Power Platform fundamentals
+- [Learning Log](./certifications/learning-log.md)
+
+## 🚀 Value Proposition
+
+- 12+ years of digital transformation in regulated environments
+- Change management for 200+ users
+- Technical documentation and training design
+- Data analytics and reporting (Python, Tableau, Power BI)
+- Regulatory compliance (Title IX, FERPA)
+
+---
+
+**Contact:** Corinne Smith | [LinkedIn](https://linkedin.com/in/csmithca) | casde06@gmail.com
+
+*This repository demonstrates my systematic approach to professional preparation, technical learning, and strategic thinking — core competencies for Microsoft 365 consulting in utility environments.*
