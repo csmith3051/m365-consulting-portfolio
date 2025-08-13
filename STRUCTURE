@@ -1,0 +1,29 @@
+# Repository Structure
+
+This document provides an overview of the portfolio repository's organization and the purpose of each top-level directory.
+
+```
+portfolio/
+├── README.md                  # Main introduction and navigation for the portfolio
+├── projects/                  # All project work samples and case studies
+│   ├── tep-interview-prep/        # Materials and prep for TEP Microsoft 365 Consultant interview
+│   ├── power-bi-samples/          # Power BI dashboards, DAX examples, and analytics demos
+│   └── documentation-examples/    # Templates, user guides, and technical documentation samples
+├── certifications/             # Professional certifications, transcripts, and learning logs
+├── resume/                     # Resume(s) and cover letters
+└── assets/
+    └── images/                 # Images used in documentation, presentations, or dashboards
+```
+
+## Folder Descriptions
+
+- `README.md`: Entry point for the portfolio with summary, highlights, and navigation.
+- `projects/`: Contains all major work samples, organized by project or theme.
+  - `tep-interview-prep/`: Focused preparation content and materials for the Tucson Electric Power interview.
+  - `power-bi-samples/`: Demonstrations of Power BI work, including dashboards, DAX, and data models.
+  - `documentation-examples/`: Examples of technical and end-user documentation, templates, and guides.
+- `certifications/`: Proof of professional certifications, progress logs, and related documentation.
+- `resume/`: Updated resume(s), cover letters, and any related application materials.
+- `assets/images/`: All images, diagrams, or graphics referenced throughout the portfolio.
+
+*Feel free to explore each directory for detailed artifacts and supporting materials.*
