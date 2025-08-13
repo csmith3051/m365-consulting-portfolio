@@ -1,8 +1,8 @@
 # TEP Microsoft 365 Consultant Interview Preparation
 
-[![Interview Date](https://img.shields.io/badge/Interview-Next%20Week-green)](https://github.com/csmith3051/tep-microsoft365-consultant-prep)
-[![Preparation Status](https://img.shields.io/badge/Preparation-In%20Progress-blue)](https://github.com/csmith3051/tep-microsoft365-consultant-prep)
-[![Power BI Learning](https://img.shields.io/badge/Power%20BI-Learning%20Active-orange)](https://datacamp.com)
+[![Interview Date](https://img.shields.io/badge/Interview-In%205%20Days-red)](https://github.com/csmith3051/tep-microsoft365-consultant-prep)
+[![Power BI](https://img.shields.io/badge/Power%20BI-DataCamp%20Certified-green)](https://datacamp.com)
+[![Preparation](https://img.shields.io/badge/Preparation-85%25%20Complete-blue)](https://github.com/csmith3051/tep-microsoft365-consultant-prep)
 [![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-Prepared-blue)](https://learn.microsoft.com)
 [![Industry Research](https://img.shields.io/badge/Utility%20Industry-Research%20Complete-green)](#)
 [![Portfolio Ready](https://img.shields.io/badge/Portfolio-Dashboard%20Samples-purple)](#)
