@@ -1,7 +1,7 @@
 # Core Talking Points & Value Proposition
 
 ## Opening Statement (2 minutes)
-"Thank you for this opportunity. Having researched TEP's digital transformation under Erik Keller's leadership and your $3.4 billion infrastructure investment, I'm excited about supporting your Microsoft 365 initiative. My 12+ years managing technology adoption in regulated environments—combined with recent AI systems integration experience and analytical background—positions me uniquely for your documentation and enablement needs."
+"Thank you for this opportunity. Having researched TEP's digital transformation under Erik Keller's leadership and your $3.4 billion infrastructure investment, I'm excited about supporting your Microsoft 365 initiative. My 12+ years managing technology adoption in regulated environments—combined with recent AI systems integration experience and analytical background—position me uniquely for your documentation and enablement needs."
 
 ## Experience Translation Framework
 
