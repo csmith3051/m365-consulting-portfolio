@@ -66,6 +66,30 @@ Explore the full project under [`projects/tep-public-poc/`](projects/tep-public-
 
 ---
 
+## 🧠 Custom GPT Agent: Microsoft 365 Enablement Advisor
+
+To accelerate Microsoft 365 adoption and empower users, I’ve built a custom GPT agent designed for consultants, program managers, and IT teams. It supports:
+
+- 🧩 Copilot prompt generation tailored to roles and workflows  
+- 📄 Drafting training materials, documentation, and communications  
+- 📊 Exploring Power BI dashboard ideas and use cases  
+- 🛡️ Planning governance, change management, and rollout strategies  
+
+🔗 [Launch the Microsoft 365 Enablement Advisor](https://chatgpt.com/g/g-689d345b71d0819184d2fa9c40af85d5-microsoft-365-strategy-advisor)
+
+### How to Use It
+
+1. Open the link above in ChatGPT  
+2. Ask questions like:  
+   - “Give me 5 Copilot prompts for a customer service manager”  
+   - “Draft a training email for Power BI dashboard rollout”  
+   - “What governance policies should I include for SharePoint?”  
+3. Refine your query or ask follow-ups—the agent is designed to guide you through strategy and execution.
+
+This tool reflects my consulting approach: practical, user-centered, and built to scale across industries.
+
+---
+
 ## Repository Structure
 
 ```
