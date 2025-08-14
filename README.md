@@ -1,9 +1,11 @@
 # Corinne Smith — Microsoft 365 Consultant
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Consulting%20Projects-blue)](https://github.com/csmith3051/m365-consulting-portfolio)  
-[![Power BI](https://img.shields.io/badge/Power%20BI-DataCamp%20Certified-green)](https://www.datacamp.com)  
-[![Microsoft 365 Specialist](https://img.shields.io/badge/Microsoft%20365-Specialist-orange)](https://learn.microsoft.com)  
-[![Inclusive & Research-Driven](https://img.shields.io/badge/Approach-Inclusive%20%26%20Research--Driven-purple)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Consulting%20Projects-blue)](https://github.com/csmith3051/m365-consulting-portfolio)
+[![Power BI Certified](https://img.shields.io/badge/Power%20BI-DataCamp%20Certified-green)](https://www.datacamp.com)
+[![Microsoft 365 Specialist](https://img.shields.io/badge/Microsoft%20365-Specialist-orange)](https://learn.microsoft.com)
+[![Custom GPT](https://img.shields.io/badge/Custom%20GPT-M365%20Enablement%20Advisor-blueviolet)](https://chatgpt.com/g/g-689d345b71d0819184d2fa9c40af85d5-microsoft-365-strategy-advisor)
+[![UCLA Doctoral Research](https://img.shields.io/badge/UCLA-Ed.D.%20Candidate-lightgrey)](https://www.ucla.edu)
+[![Inclusive Innovation](https://img.shields.io/badge/Approach-Inclusive%20%26%20Research--Driven-purple)](#)
 
 Helping organizations unlock the full potential of Microsoft 365, Copilot, and Power BI—through thoughtful strategy, clear documentation, and engaging training experiences.
 
@@ -15,7 +17,7 @@ Helping organizations unlock the full potential of Microsoft 365, Copilot, and P
 - [Core Services](#core-services)  
 - [Demo Project: TEP Public POC](#demo-project-tep-public-poc)  
 - [Tools & Methodology](#tools--methodology)  
-- [Custom GPT Agent](#custom-gpt-agent-microsoft-365-enablement-advisor) 
+- [Custom GPT Agent: Microsoft 365 Enablement Advisor](#custom-gpt-agent-microsoft-365-enablement-advisor)  
 - [Repository Structure](#repository-structure)  
 - [Contact](#contact)  
 
