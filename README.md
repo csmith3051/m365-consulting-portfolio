@@ -1,11 +1,11 @@
 # Corinne Smith — Microsoft 365 Consultant
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Consulting_Projects-003B5C)](https://github.com/csmith3051/m365-consulting-portfolio)  
-[![Power BI Certified](https://img.shields.io/badge/Power_BI-DataCamp_Certified-003B5C)](https://www.datacamp.com)  
-[![Microsoft 365 Specialist](https://img.shields.io/badge/Microsoft_365-Specialist-003B5C)](https://learn.microsoft.com)  
-[![Custom GPT](https://img.shields.io/badge/Custom_GPT-M365_Enablement_Agent-003B5C)](https://chatgpt.com/g/g-689d345b71d0819184d2fa9c40af85d5-microsoft-365-strategy-advisor)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Consulting_Projects-blue)](https://github.com/csmith3051/m365-consulting-portfolio)  
+[![Power BI Certified](https://img.shields.io/badge/Power_BI-DataCamp_Certified-green)](https://www.datacamp.com)  
+[![Microsoft 365 Specialist](https://img.shields.io/badge/Microsoft_365-Specialist-orange)](https://learn.microsoft.com)  
+[![Custom GPT](https://img.shields.io/badge/Custom_GPT-M365_Enablement_Agent-blueviolet)](https://chatgpt.com/g/g-689d345b71d0819184d2fa9c40af85d5-microsoft-365-strategy-advisor)  
 [![UCLA Doctoral Research](https://img.shields.io/badge/UCLA-Ed.D._Candidate-003B5C)](https://www.ucla.edu)  
-[![Inclusive Innovation](https://img.shields.io/badge/Approach-Inclusive_and_Research_Driven-003B5C)](#)
+[![Inclusive Innovation](https://img.shields.io/badge/Approach-Inclusive_and_Research_Driven-purple)](#)
 
 Helping organizations unlock the full potential of Microsoft 365, Copilot, and Power BI through thoughtful strategy, clear documentation, and engaging training experiences.
 
@@ -25,7 +25,9 @@ Helping organizations unlock the full potential of Microsoft 365, Copilot, and P
 
 ## About Me
 
-Hi there. I’m Corinne, a Microsoft 365 Consultant with 12+ years of experience leading digital transformation across education, energy, and public health. My background in higher education means I bring a collaborative, learner-centered approach to every engagement. I’m currently completing my doctorate at UCLA, where I research how diverse teams drive innovation in technology.
+Hi there. I’m Corinne, a Microsoft 365 Consultant with over a decade of experience guiding digital transformation across education, energy, and public health. My background in higher education shapes a consulting style that’s collaborative, learner-centered, and grounded in research.
+
+I’m currently completing my doctorate at UCLA, where I study how diverse teams drive innovation in technology. That lens informs everything I build—from dashboards to training kits—with empathy, clarity, and strategic foresight.
 
 I specialize in:
 - Microsoft 365 strategy, governance, and enablement  
@@ -38,18 +40,18 @@ I specialize in:
 
 ## Core Services
 
-- 🧭 Microsoft 365 roadmaps and governance  
-- 🤖 Copilot prompt libraries and training guides  
-- 📊 Power BI dashboards and analytics  
-- 🧑‍🏫 Workshop design and enablement materials  
-- 🔄 Change management and communications  
+- 🧭 Microsoft 365 roadmaps and governance frameworks  
+- 🤖 Copilot prompt libraries and enablement guides  
+- 📊 Power BI dashboards and analytics workflows  
+- 🧑‍🏫 Workshop design and instructional materials  
+- 🔄 Change management and communication planning  
 - 📋 Program management and process optimization  
 
 ---
 
 ## Demo Project: TEP Public POC
 
-A one-week proof of concept using publicly available data from Tucson Electric Power (TEP), designed to showcase consulting capabilities:
+This one-week proof of concept uses publicly available data from Tucson Electric Power (TEP) to demonstrate my consulting approach:
 
 - Power BI dashboard: energy mix and reliability metrics  
 - Copilot quickstart: 10 utility-focused prompts and best practices  
