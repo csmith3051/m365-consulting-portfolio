@@ -13,9 +13,11 @@ Power BI is Microsoft's business intelligence tool that helps you:
 
 ### What is DAX?
 **DAX = Data Analysis Expressions**
+- **D**ata **A**nalysis e**X**pressions
 - It's the "formula language" for Power BI (like Excel formulas, but more powerful)
 - Used to create calculations, metrics, and custom measures
 - Helps you analyze data beyond basic sums and averages
+- **Think of it like:** Advanced Excel formulas that work across multiple data tables
 
 ### Your Higher Ed Experience Connection:
 - **Excel formulas** → DAX formulas
@@ -90,22 +92,37 @@ SUMX(
 **Why it matters:** Helps plan infrastructure investments
 **Your calculation:** Current demand ÷ Available capacity × 100
 
-## Learning Path Recommendation
+## 5-Day Interview Prep Plan (Specific Links)
 
-### Week 1: Power BI Basics
-1. **DataCamp: Introduction to Power BI** (4 hours)
-2. **YouTube: "Power BI in 60 Minutes"** (1 hour)
-3. **Practice: Connect to Excel file, create basic chart** (1 hour)
+### Day 1: Power BI Fundamentals (2-3 hours)
+**Priority:** Understanding what Power BI is and basic navigation
+- **DataCamp:** https://learn.datacamp.com/courses/introduction-to-power-bi
+- **YouTube:** "Power BI Tutorial for Beginners" - https://youtube.com/watch?v=AGrl-H87pRU (ExcelIsFun)
+- **Microsoft Learn:** https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/
 
-### Week 2: DAX Fundamentals  
-1. **DataCamp: Introduction to DAX** (4 hours)
-2. **Practice: Create basic SUM, AVERAGE measures** (1 hour)
-3. **YouTube: "DAX for Beginners"** (2 hours)
+### Day 2: DAX Basics (2-3 hours)  
+**Priority:** Understanding basic calculations
+- **YouTube:** "DAX 101 - Introduction to DAX" - https://youtube.com/watch?v=klQAZLr5vxA (SQLBI)
+- **DataCamp:** https://learn.datacamp.com/courses/introduction-to-dax-in-power-bi
+- **Practice:** Create basic SUM, AVERAGE measures
 
-### Week 3: Utility Applications
-1. **Create sample utility data in Excel** (2 hours)
-2. **Build basic utility dashboard** (3 hours)
-3. **Practice explaining metrics** (1 hour)
+### Day 3: Utility Industry Context (2 hours)
+**Priority:** Learning utility terminology for interview
+- **YouTube:** "How the Power Grid Works" - https://youtube.com/watch?v=v1BMWczn7JM
+- **Read:** SAIDI/CAIFI definitions - https://en.wikipedia.org/wiki/SAIDI
+- **Practice:** Explaining utility metrics in simple terms
+
+### Day 4: Interview Scenarios (2 hours)
+**Priority:** Connecting your experience to Power BI
+- **YouTube:** "Power BI Dashboard Best Practices" - https://youtube.com/watch?v=8EsYzJyNgFo
+- **Practice:** Talking through your dashboard design
+- **Review:** Your strategic analysis and talking points
+
+### Day 5: Final Review (1 hour)
+**Priority:** Confidence building and key message practice
+- **Review:** All learning materials created
+- **Practice:** 2-minute Power BI explanation
+- **Prepare:** Questions about specific DAX functions
 
 ## Quick Reference for Interview
 
@@ -118,8 +135,20 @@ SUMX(
 ### When asked about specific metrics:
 "SAIDI measures how long customers are without power annually - it's a key regulatory metric. CAIFI shows interruption frequency. These are calculated using DAX formulas that aggregate outage data across TEP's 458,000+ customers."
 
-## Next Steps for You
-1. **Complete DataCamp Power BI Introduction** (priority 1)
-2. **Review this document daily** to build vocabulary
-3. **Practice explaining concepts** out loud
-4. **Connect everything back to your higher ed analytics experience**
+## Additional Resources with Direct Links
+
+### Power BI Learning
+- **Microsoft Power BI YouTube Channel:** https://youtube.com/c/mspowerbi
+- **Guy in a Cube (Power BI Experts):** https://youtube.com/c/GuyinaCube
+- **Power BI Community:** https://community.powerbi.com/
+- **SQLBI (Advanced DAX):** https://sqlbi.com/learn/
+
+### Utility Industry Context
+- **EIA Energy Explained:** https://www.eia.gov/energyexplained/
+- **Utility Dive:** https://utilitydive.com/
+- **Smart Electric Power Alliance:** https://sepapower.org/
+- **North American Electric Reliability Corporation:** https://nerc.com/
+
+### Interview-Specific Prep
+- **Power BI Interview Questions:** https://powerbi.microsoft.com/en-us/blog/power-bi-interview-questions/
+- **DAX Quick Reference:** https://docs.microsoft.com/en-us/dax/dax-function-reference
