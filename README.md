@@ -17,7 +17,7 @@ Helping organizations unlock the full potential of Microsoft 365, Copilot, and P
 - [Core Services](#core-services)  
 - [Demo Project: TEP Public POC](#demo-project-tep-public-poc)  
 - [Tools & Methodology](#tools--methodology)  
-- [Custom GPT Agent: Microsoft 365 Enablement Advisor](#custom-gpt-agent:-microsoft-365-enablement-advisor)
+- [Custom GPT Agent — Microsoft 365 Enablement Advisor](#custom-gpt-agent--microsoft-365-enablement-advisor)
 - [Repository Structure](#repository-structure)  
 - [Contact](#contact)  
 
@@ -69,7 +69,7 @@ Explore the full project under [`projects/tep-public-poc/`](projects/tep-public-
 
 ---
 
-## Custom GPT Agent: Microsoft 365 Enablement Advisor
+## Custom GPT Agent — Microsoft 365 Enablement Advisor
 
 To accelerate Microsoft 365 adoption and empower users, I’ve built a custom GPT agent designed for consultants, program managers, and IT teams. It supports:
 
