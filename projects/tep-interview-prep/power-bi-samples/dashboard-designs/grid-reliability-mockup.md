@@ -36,3 +36,91 @@
 ## Dashboard Layout Design
 
 ### Header Section
+
+### Main Dashboard Layout
+
+#### Left Panel - Real-Time System Status (30% width)
+
+**Interactive System Map**
+- Color-coded substations (Green: Normal, Yellow: Alert, Red: Emergency)
+- Active outage locations with customer impact radius
+- Field crew positions and ETAs
+- Weather overlay with impact zones
+
+**Current Alerts Panel**
+
+**System Health Gauges**
+- Frequency stability (59.95-60.05 Hz)
+- System voltage (±5% nominal)
+- Reserve margin percentage
+
+#### Center Panel - Performance Metrics (40% width)
+
+**Key Reliability Metrics**
+- SAIDI gauge with YTD progress vs. annual target
+- CAIFI trending chart (monthly rolling average)
+- Peak demand utilization percentage
+- Equipment availability scores
+
+**Generation Dashboard**
+- Current generation mix (real-time)
+- Renewable energy output vs. forecast
+- Storage system charge/discharge status
+- Carbon emissions tracking
+
+#### Right Panel - Operations Support (30% width)
+
+**Active Outages Management**
+- Outage list with priority ranking
+- Estimated restoration times
+- Crew assignments and status
+- Customer communication status
+
+**Weather and Forecasting**
+- Current weather conditions
+- Severe weather alerts
+- Load forecast accuracy
+- Demand response activation status
+
+## Sample DAX Calculations
+
+### Grid Reliability Metrics
+```dax
+// SAIDI (System Average Interruption Duration Index)
+SAIDI_Current = 
+DIVIDE(
+    SUMX(
+        Outages,
+        Outages[Duration_Minutes] * Outages[Customers_Affected]
+    ),
+    SUM(CustomerBase[Total_Customers_Served])
+)
+
+// Peak Demand Utilization
+Peak_Utilization = 
+DIVIDE(
+    MAX(Demand[Current_MW]),
+    MAX(Capacity[Available_MW])
+) * 100
+
+// Renewable Energy Percentage
+Renewable_Mix = 
+DIVIDE(
+    SUM(Generation[Renewable_MW]),
+    SUM(Generation[Total_MW]),
+    0
+) * 100
+
+// Equipment Health Score
+Equipment_Health = 
+AVERAGE(
+    SWITCH(
+        Equipment[Condition_Status],
+        "Excellent", 100,
+        "Good", 80,
+        "Fair", 60,
+        "Poor", 40,
+        "Critical", 20,
+        0
+    )
+)
