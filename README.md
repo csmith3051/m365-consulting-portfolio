@@ -3,7 +3,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Consulting%20Projects-blue)](https://github.com/csmith3051/m365-consulting-portfolio)
 [![Power BI Certified](https://img.shields.io/badge/Power%20BI-DataCamp%20Certified-green)](https://www.datacamp.com)
 [![Microsoft 365 Specialist](https://img.shields.io/badge/Microsoft%20365-Specialist-orange)](https://learn.microsoft.com)
-[![Custom GPT](https://img.shields.io/badge/Custom%20GPT-M365%20Enablement%20Advisor-blueviolet)](https://chatgpt.com/g/g-689d345b71d0819184d2fa9c40af85d5-microsoft-365-strategy-advisor)
+[![Custom GPT](https://img.shields.io/badge/Custom%20GPT-M365%20Enablement%20Advisor-blueviolet)](https://chatgpt.com/g/g-689d345b71d0819184d2fa9c40af85d5-microsoft-365-implementation-advisor)
 [![UCLA Doctoral Research](https://img.shields.io/badge/UCLA-Ed.D.%20Candidate-lightgrey)](https://www.ucla.edu)
 [![Inclusive Innovation](https://img.shields.io/badge/Approach-Inclusive%20%26%20Research--Driven-purple)](#)
 
@@ -17,7 +17,7 @@ Helping organizations unlock the full potential of Microsoft 365, Copilot, and P
 - [Core Services](#core-services)  
 - [Demo Project: TEP Public POC](#demo-project-tep-public-poc)  
 - [Tools & Methodology](#tools--methodology)  
-- [Custom GPT Agent for Microsoft 365 Enablement](#m365-agent)  
+- [Custom GPT Agent for Microsoft 365 Implementation](#m365-agent)  
 - [Repository Structure](#repository-structure)  
 - [Contact](#contact)  
 
@@ -80,7 +80,7 @@ To accelerate Microsoft 365 adoption and empower users, I’ve built a custom GP
 - 📊 Exploring Power BI dashboard ideas and use cases  
 - 🛡️ Planning governance, change management, and rollout strategies  
 
-🔗 [Launch the Microsoft 365 Enablement Advisor ↗](https://chatgpt.com/g/g-689d345b71d0819184d2fa9c40af85d5-microsoft-365-strategy-advisor)
+🔗 [Launch the Microsoft 365 Implementation Advisor ↗](https://chatgpt.com/g/g-689d345b71d0819184d2fa9c40af85d5-microsoft-365-implementation-advisor)
 
 ### How to Use It
 
