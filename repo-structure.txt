@@ -1,0 +1,39 @@
+.
+├── assets
+│   └── images
+├── certifications
+│   ├── learning-resources.md
+│   └── README.md
+├── projects
+│   ├── documentation-examples
+│   │   └── README.md
+│   ├── power-bi-samples
+│   │   └── README.md
+│   ├── README.md
+│   └── tep-interview-prep
+│       ├── docs
+│       │   ├── company-research
+│       │   │   └── tep-strategic-analysis.md
+│       │   ├── deliverables
+│       │   │   └── learning-framework
+│       │   │       └── microsoft365-adoption-strategy.md
+│       │   ├── interview-strategy
+│       │   │   └── talking-points.md
+│       │   └── technical-prep
+│       │       └── power-bi-basics-for-beginners.md
+│       ├── power-bi-samples
+│       │   └── dashboard-designs
+│       │       └── grid-reliability-mockup.md
+│       ├── README.md
+│       └── tools
+│           ├── gpt-integration-workflow.md
+│           └── interview-preparation-gpt.md
+├── README.md
+├── repo-structure.txt
+├── resume
+│   ├── README.md
+│   └── resume
+│       └── professional-summary.md
+└── STRUCTURE
+
+19 directories, 18 files
