@@ -15,7 +15,7 @@ Helping organizations unlock the full potential of Microsoft 365, Copilot, and P
 - [Core Services](#core-services)  
 - [Demo Project: TEP Public POC](#demo-project-tep-public-poc)  
 - [Tools & Methodology](#tools--methodology)  
-- [Custom GPT Agent](#custom-gpt-agent-microsoft-365-enablement-advisor)  
+- [Custom GPT Agent](#custom-gpt-agent-microsoft-365-enablement-advisor) 
 - [Repository Structure](#repository-structure)  
 - [Contact](#contact)  
 
