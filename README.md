@@ -7,16 +7,6 @@
 [![Industry Research](https://img.shields.io/badge/Utility%20Industry-Research%20Complete-green)](#)
 [![Portfolio Ready](https://img.shields.io/badge/Portfolio-Dashboard%20Samples-purple)](#)
 
-## 🤖 AI-Enhanced Preparation
-
-**Custom Interview GPT:** Developed a specialized ChatGPT assistant trained on this repository's comprehensive research and frameworks for personalized interview coaching and practice sessions.
-
-- **Knowledge Integration:** All repository content feeding custom AI preparation tool
-- **Practice Enhancement:** Mock interviews, technical questions, scenario responses
-- **Methodology Demonstration:** Shows systematic approach to leveraging AI for professional development
-
-[Interview Preparation Tools](./tools/interview-preparation-gpt.md)
-
 ## 🎯 Project Overview
 
 Comprehensive preparation for the Microsoft 365 Consultant role at **Tucson Electric Power (TEP)**, focusing on documentation, training, and enablement around Microsoft Copilot and Power BI for utility operations.
@@ -66,8 +56,16 @@ Comprehensive preparation for the Microsoft 365 Consultant role at **Tucson Elec
 - Data analytics and reporting (Python, Tableau, Power BI)
 - Regulatory compliance (Title IX, FERPA)
 
+## 🤖 AI-Enhanced Preparation
+
+**Custom Interview GPT:** Developed a specialized ChatGPT assistant trained on this repository's comprehensive research and frameworks for personalized interview coaching and practice sessions.
+
+- **Knowledge Integration:** All repository content feeding custom AI preparation tool
+- **Practice Enhancement:** Mock interviews, technical questions, scenario responses
+- **Methodology Demonstration:** Shows systematic approach to leveraging AI for professional development
+
+[Interview Preparation Tools](./tools/interview-preparation-gpt.md)
+
 ---
 
 **Contact:** Corinne Smith | [LinkedIn](https://linkedin.com/in/csmithca) | casde06@gmail.com
-
-*This repository demonstrates my systematic approach to professional preparation, technical learning, and strategic thinking — core competencies for Microsoft 365 consulting in utility environments.*
