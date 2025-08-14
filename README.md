@@ -1,6 +1,6 @@
 # Corinne Smith — Microsoft 365 Consultant
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Consulting%20Projects-blue)](https://github.com/csmith3051/microsoft365-consultant-portfolio)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Consulting%20Projects-blue)](https://github.com/csmith3051/m365-consulting-portfolio)  
 [![Power BI](https://img.shields.io/badge/Power%20BI-DataCamp%20Certified-green)](https://www.datacamp.com)  
 [![Microsoft 365 Specialist](https://img.shields.io/badge/Microsoft%20365-Specialist-orange)](https://learn.microsoft.com)  
 [![Inclusive & Research-Driven](https://img.shields.io/badge/Approach-Inclusive%20%26%20Research--Driven-purple)](#)
@@ -15,6 +15,7 @@ Helping organizations unlock the full potential of Microsoft 365, Copilot, and P
 - [Core Services](#core-services)  
 - [Demo Project: TEP Public POC](#demo-project-tep-public-poc)  
 - [Tools & Methodology](#tools--methodology)  
+- [Custom GPT Agent](#custom-gpt-agent-microsoft-365-enablement-advisor)  
 - [Repository Structure](#repository-structure)  
 - [Contact](#contact)  
 
@@ -22,7 +23,7 @@ Helping organizations unlock the full potential of Microsoft 365, Copilot, and P
 
 ## About Me
 
-Hi there! I’m Corinne, a Microsoft 365 Consultant with 12+ years of experience leading digital transformation across education, energy, and public health. My background in higher ed means I bring a collaborative, learner-centered approach to every engagement. I’m currently completing my doctorate at UCLA, where I research how diverse teams drive innovation in tech.
+Hi there! I’m Corinne—a Microsoft 365 Consultant with 12+ years of experience leading digital transformation across education, energy, and public health. My background in higher ed means I bring a collaborative, learner-centered approach to every engagement. I’m currently completing my doctorate at UCLA, where I research how diverse teams drive innovation in tech.
 
 I specialize in:
 - Microsoft 365 strategy, governance, and enablement  
@@ -66,7 +67,7 @@ Explore the full project under [`projects/tep-public-poc/`](projects/tep-public-
 
 ---
 
-## 🧠 Custom GPT Agent: Microsoft 365 Enablement Advisor
+## Custom GPT Agent: Microsoft 365 Enablement Advisor
 
 To accelerate Microsoft 365 adoption and empower users, I’ve built a custom GPT agent designed for consultants, program managers, and IT teams. It supports:
 
