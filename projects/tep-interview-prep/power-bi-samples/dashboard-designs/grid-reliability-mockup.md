@@ -36,6 +36,10 @@
 ## Dashboard Layout Design
 
 ### Header Section
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  TEP Grid Reliability Dashboard          [Real-time Status: ●NORMAL]        │
+│  Last Updated: 2025-08-13 14:35:22      Active Outages: 3 | Customers: 847  │
+└─────────────────────────────────────────────────────────────────────────────┘
 
 ### Main Dashboard Layout
 
@@ -48,6 +52,13 @@
 - Weather overlay with impact zones
 
 **Current Alerts Panel**
+🔴 CRITICAL ALERTS (2)
+• Transformer overload - Substation 47A
+• Voltage deviation - Circuit 23B
+
+🟡 WARNING ALERTS (5)  
+• Equipment maintenance due - Line 15C
+• High load forecast - District 3
 
 **System Health Gauges**
 - Frequency stability (59.95-60.05 Hz)
@@ -85,7 +96,6 @@
 ## Sample DAX Calculations
 
 ### Grid Reliability Metrics
-```dax
 // SAIDI (System Average Interruption Duration Index)
 SAIDI_Current = 
 DIVIDE(
@@ -124,3 +134,39 @@ AVERAGE(
         0
     )
 )
+
+## User Experience Design
+
+### Role-Based Views
+- **Operators:** Focus on real-time alerts and immediate response tools
+- **Engineers:** Detailed analytics and trend analysis capabilities
+- **Management:** Executive summary cards and regulatory compliance metrics
+- **Field Crews:** Mobile-optimized views with location-based information
+
+### Interactive Features
+- **Drill-down capabilities:** Click any metric to see detailed analysis
+- **Time period selection:** Real-time, hourly, daily, monthly views
+- **Alert acknowledgment:** Mark alerts as reviewed with timestamp
+- **Export functionality:** PDF reports for regulatory submissions
+
+## Mobile Responsiveness
+- **Field Operations:** Simplified dashboard for mobile devices
+- **Critical Alerts:** Push notifications for emergency situations
+- **Offline Capability:** Cached data for areas with poor connectivity
+- **Voice Integration:** Hands-free status updates for field crews
+
+## Security and Compliance
+- **Role-based access control:** Different permissions for different user types
+- **Audit logging:** All user interactions tracked for compliance
+- **Data encryption:** All sensitive utility data protected
+- **NERC CIP compliance:** Meets critical infrastructure protection standards
+
+## Integration Points
+- **SCADA Systems:** Real-time operational data feed
+- **Outage Management System:** Customer impact and restoration data
+- **Weather Services:** Meteorological data for correlation analysis
+- **Customer Information System:** Service territory and account data
+
+---
+
+*This dashboard design demonstrates understanding of utility operations, regulatory requirements, and the critical nature of grid reliability monitoring for TEP's 458,000+ customers across Southern Arizona.*
