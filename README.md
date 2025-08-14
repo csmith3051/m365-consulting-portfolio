@@ -113,7 +113,7 @@ certifications/
 docs/
 ```
 
-For a detailed file map, see [docs/FILE-STRUCTURE.md](docs/FILE-STRUCTURE.md).
+For a detailed file map, see [STRUCTURE.md](STRUCTURE.md).
 
 ---
 
