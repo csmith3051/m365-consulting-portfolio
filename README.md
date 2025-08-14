@@ -22,7 +22,7 @@ Helping organizations unlock the full potential of Microsoft 365, Copilot, and P
 
 ## About Me
 
-Hi there! I’m Corinne—a Microsoft 365 Consultant with 12+ years of experience leading digital transformation across education, energy, and public health. My background in higher ed means I bring a collaborative, learner-centered approach to every engagement. I’m currently completing my doctorate at UCLA, where I research how diverse teams drive innovation in tech.
+Hi there! I’m Corinne, a Microsoft 365 Consultant with 12+ years of experience leading digital transformation across education, energy, and public health. My background in higher ed means I bring a collaborative, learner-centered approach to every engagement. I’m currently completing my doctorate at UCLA, where I research how diverse teams drive innovation in tech.
 
 I specialize in:
 - Microsoft 365 strategy, governance, and enablement  
