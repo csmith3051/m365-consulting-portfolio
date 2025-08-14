@@ -1,136 +1,94 @@
-# Microsoft 365 Consultant Portfolio
+# Corinne Smith — Microsoft 365 Consultant
 
-[![Professional Portfolio](https://img.shields.io/badge/Portfolio-Consulting%20Projects-blue)](https://github.com/csmith3051/microsoft365-consultant-portfolio)
-[![Technical Expertise](https://img.shields.io/badge/Power%20BI-DataCamp%20Certified-green)](https://datacamp.com)
-[![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-Specialist-orange)](#)
-[![Methodology](https://img.shields.io/badge/Approach-AI%20Enhanced-purple)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Consulting%20Projects-blue)](https://github.com/csmith3051/microsoft365-consultant-portfolio)  
+[![Power BI](https://img.shields.io/badge/Power%20BI-DataCamp%20Certified-green)](https://www.datacamp.com)  
+[![Microsoft 365 Specialist](https://img.shields.io/badge/Microsoft%20365-Specialist-orange)](https://learn.microsoft.com)  
+[![Inclusive & Research-Driven](https://img.shields.io/badge/Approach-Inclusive%20%26%20Research--Driven-purple)](#)
 
-## Overview
+Helping organizations unlock the full potential of Microsoft 365, Copilot, and Power BI—through thoughtful strategy, clear documentation, and engaging training experiences.
 
-Professional consulting portfolio showcasing Microsoft 365 implementation expertise with a specialized focus on utility industry digital transformation. This repository demonstrates strategic analysis, technical solutions, and AI-enhanced methodologies for enterprise-scale Microsoft 365 deployments.
+---
 
-**Core Expertise:** Implementation roadmaps, stakeholder communication, change management, Power BI analytics, and Microsoft Copilot adoption for utility operations and regulated environments.
+## 📖 Table of Contents
 
-## Projects
+- [About Me](#about-me)  
+- [Core Services](#core-services)  
+- [Demo Project: TEP Public POC](#demo-project-tep-public-poc)  
+- [Tools & Methodology](#tools--methodology)  
+- [Repository Structure](#repository-structure)  
+- [Contact](#contact)  
 
-### Tucson Electric Power (TEP) - Utility Industry
+---
 
-Microsoft 365 Consultant role focusing on comprehensive platform implementation, Copilot adoption, and Power BI analytics for utility operations.
+## About Me
 
-- **[Project Overview](./TEP/)** - Strategic analysis and implementation planning
-- **[Power BI Demos](./TEP/power-bi-samples/)** - Grid reliability, renewable energy, customer analytics
-- **[Training Framework](./TEP/training-curriculum/)** - Role-based adoption strategy
-- **[Stakeholder Communications](./TEP/communications/)** - Executive, manager, and end-user engagement templates
+Hi there! I’m Corinne—a Microsoft 365 Consultant with 12+ years of experience leading digital transformation across education, energy, and public health. My background in higher ed means I bring a collaborative, learner-centered approach to every engagement. I’m currently completing my doctorate at UCLA, where I research how diverse teams drive innovation in tech.
 
-### Implementation Framework Development
+I specialize in:
+- Microsoft 365 strategy, governance, and enablement  
+- Power BI dashboards and data storytelling  
+- Copilot prompt design and AI adoption  
+- Change management and stakeholder communications  
+- Inclusive, research-informed consulting practices  
 
-Comprehensive Microsoft 365 implementation methodology tailored for utility industry requirements.
+---
 
-- **[Implementation Roadmap Templates](./templates/implementation/)** - Phased deployment strategies
-- **[Power BI Best Practices](./templates/powerbi/)** - Utility-specific dashboard design and governance
-- **[Copilot Adoption Framework](./templates/copilot/)** - AI governance and training methodologies
-- **[Communication Templates](./templates/communications/)** - Stakeholder engagement across organizational levels
+## Core Services
 
-### Future Projects
-*Additional client work and consulting projects will be added here as portfolio expands.*
+- 🧭 Microsoft 365 Roadmaps & Governance  
+- 🤖 Copilot Prompt Libraries & Training Guides  
+- 📊 Power BI Dashboards & Analytics  
+- 🧑‍🏫 Workshop Design & Enablement Materials  
+- 🔄 Change Management & Communications  
+- 📋 Program Management & Process Optimization  
 
-## Technical Capabilities
+---
 
-### Microsoft 365 Platform
-- **SharePoint & Teams:** Collaboration architecture, information governance, and utility-specific site design
-- **Power Platform:** Business intelligence, process automation, and custom application development
-- **Copilot Integration:** AI adoption strategies, governance frameworks, and utility-specific use case development
-- **Security & Compliance:** NERC CIP, FERC regulatory requirements, and enterprise data governance
+## Demo Project: TEP Public POC
 
-### Analytics & Reporting
-- **Power BI:** Advanced dashboard design, DAX calculations, data modeling for utility operations
-- **Utility Analytics:** SAIDI/SAIFI metrics, asset performance monitoring, regulatory compliance reporting
-- **Data Integration:** SCADA, OMS, CIS system connections and operational data transformation
-- **Executive Reporting:** Strategic dashboards and KPI visualization for utility leadership
+A one-week proof-of-concept using publicly available data from Tucson Electric Power (TEP), designed to showcase my consulting capabilities:
 
-### Industry Specialization
-- **Utility Operations:** Grid management, outage response, asset maintenance, customer service
-- **Regulatory Compliance:** NERC CIP cybersecurity, environmental reporting, rate case support
-- **Emergency Response:** Storm restoration coordination, business continuity planning
-- **Field Operations:** Mobile workforce enablement, safety management, work order optimization
+- **Power BI Dashboard:** Energy mix & reliability metrics  
+- **Copilot Quickstart:** 10 utility-focused prompts + best practices  
+- **Workshop Kit:** Slide deck, instructor notes, participant workbook  
+- **Change Management Snapshot:** Communication plan & stakeholder map  
 
-## AI-Enhanced Consulting
+Explore the full project under [`projects/tep-public-poc/`](projects/tep-public-poc).
 
-**Modern Methodology:** Leveraging AI tools for enhanced research, analysis, and solution development while maintaining human expertise in strategic decision-making and implementation oversight.
+---
 
-### Core AI Integration Areas
+## Tools & Methodology
 
-* **Research Acceleration:** AI-assisted industry analysis, competitive intelligence, and best practice identification for Microsoft 365 implementations
-* **Solution Optimization:** Data-driven approach to technology recommendations, architecture design, and implementation planning
-* **Training Enhancement:** AI-supported content development, personalization, and adaptive learning path creation
-* **Documentation Intelligence:** Automated generation of implementation guides, stakeholder communications, and project artifacts
+- Agile sprints for fast, usable deliverables  
+- AI-assisted research using custom GPT agents  
+- User-centered design rooted in higher ed best practices  
+- Governance frameworks for secure, scalable Microsoft 365 adoption  
 
-### Custom AI Tools and Assistants
-
-#### Microsoft 365 Implementation GPT
-**Specialized AI consultant** for utility industry Microsoft 365 deployments featuring:
-* Comprehensive implementation roadmaps and phased deployment strategies
-* Utility-specific Power BI dashboard designs and analytics frameworks
-* Microsoft Copilot governance and adoption strategies for regulated environments
-* Stakeholder communication templates and change management approaches
-* Regulatory compliance guidance (NERC CIP, FERC, utility commission requirements)
-* Industry-specific training curricula and adoption best practices
-
-#### TEP Interview Coach GPT
-**Specialized AI assistant** for interview preparation and strategic planning designed for utility industry professionals seeking career advancement and strategic positioning.
-
-### AI-Human Collaboration Framework
-
-* **Strategic Oversight:** Human expertise guides AI tool selection and output validation
-* **Quality Assurance:** All AI-generated recommendations reviewed for accuracy and industry applicability  
-* **Ethical Implementation:** Responsible AI usage ensuring data privacy and security compliance
-* **Continuous Learning:** AI tools updated with latest industry trends and Microsoft platform developments
-
-## Consulting Methodology
-
-### Research-Driven Approach
-- **Environmental Analysis:** Utility industry trends, regulatory landscape, competitive positioning
-- **Organizational Assessment:** Leadership evaluation, operational culture analysis, technical infrastructure readiness
-- **Stakeholder Engagement:** Multi-level user needs analysis and change champion network development
-
-### User-Centered Design
-- **Workflow Integration:** Solutions designed around utility operational requirements and 24/7 operations
-- **Role-Based Customization:** Tailored experiences for executives, operators, field crews, and customer service
-- **Iterative Feedback:** Continuous improvement methodology based on operational user input
-
-### Technology Integration
-- **Platform Optimization:** Microsoft 365 ecosystem configuration for utility-specific operations
-- **Operational Analytics:** Power BI implementations for grid management, asset performance, and regulatory reporting
-- **Process Automation:** Power Platform solutions for maintenance workflows, customer service, and compliance reporting
-
-## Professional Experience Highlights
-
-- **12+ years** digital transformation experience in regulated environments
-- **Utility industry expertise** in operations, compliance, and customer service
-- **Enterprise-scale implementations** supporting 200+ user change management initiatives
-- **Technical documentation** and training design for complex operational environments
-- **Advanced analytics** proficiency (Python, Tableau, Power BI) with utility-specific applications
-- **Regulatory compliance** experience (Title IX, FERPA, NERC CIP, utility commission requirements)
+---
 
 ## Repository Structure
 
 ```
-├── TEP/                    # Tucson Electric Power project
-│   ├── power-bi-samples/   # Utility-specific dashboard examples
-│   ├── training-curriculum/# Role-based adoption strategy
-│   └── communications/     # Stakeholder engagement materials
-├── templates/              # Reusable frameworks and templates
-│   ├── implementation/     # Deployment roadmaps and methodologies
-│   ├── powerbi/           # Power BI best practices and governance
-│   ├── copilot/           # AI adoption and governance frameworks
-│   └── communications/    # Stakeholder communication templates
-├── certifications/         # Professional development records  
-└── tools/                 # Consulting tools and AI assistants
+projects/
+└── tep-public-poc/
+    ├── data/
+    ├── power-bi/
+    ├── docs/
+    └── workshop/
+deliverables/
+templates/
+tools/
+certifications/
+docs/
 ```
+
+For a detailed file map, see [docs/FILE-STRUCTURE.md](docs/FILE-STRUCTURE.md).
+
+---
 
 ## Contact
 
-**Corinne Smith** | Microsoft 365 Consultant - Utility Industry Specialist  
-📧 casde06@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/csmithca)
-
-*Specializing in Microsoft 365 implementations for utility operations, regulatory compliance, and digital transformation in regulated environments.*
+**Corinne Smith**  
+Microsoft 365 Consultant  
+✉️ casde06@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/csmithca)
