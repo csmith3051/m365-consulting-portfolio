@@ -14,10 +14,10 @@
 
 ## Executive Summary
 
-Results-oriented Program Manager and strategic consultant with **12+ years** transforming operational challenges into business outcomes across healthcare, technology, financial services, energy, and education sectors. Currently completing **Ed.D. in Educational Leadership at UCLA** while bringing proven expertise in **AI systems integration, regulatory compliance, and large-scale technology adoption** to utility industry applications.
+Results-oriented Program Manager and strategic consultant with **12+ years** transforming operational challenges into business outcomes across healthcare, technology, financial services, energy, and education sectors. Currently completing **Ed.D. in Educational Leadership at UCLA** while bringing proven expertise in **AI systems integration, regulatory compliance, and large-scale program management** to utility industry applications.
 
 ### Core Value Proposition for TEP
-**Unique combination of regulated environment expertise, recent AI integration experience, and systematic change management** - exactly what TEP needs for successful Microsoft 365 implementation across diverse utility operations.
+**Unique combination of regulated environment expertise, recent AI integration experience, and systematic program management** - exactly what TEP needs for successful Microsoft 365 implementation across diverse utility operations.
 
 ---
 
@@ -71,7 +71,7 @@ Results-oriented Program Manager and strategic consultant with **12+ years** tra
 - **Managed academic operations** across USC graduate programs (Medicine and Accounting), supporting 200+ students annually
 - **Pioneered data-driven advising strategies** implementing systematic feedback collection, leading to measurable satisfaction improvements
 - **Led cross-functional policy implementation** through faculty and administration coordination, ensuring consistent application and resolving complex cases
-- **Improved operational efficiency by 30%** establishing systematic timelines, templates, and tracking systems
+- **Improved admissions cycle by 30%** establishing systematic timelines, response templates, and effective tracking systems to improve data integrity
 
 #### Enterprise Systems & Compliance ⭐ *Directly Relevant for Regulated Environment*
 - **Implemented data-driven monitoring systems** within USC Student Information System improving tracking efficiency and ensuring **100% compliance** with school policies
@@ -149,17 +149,17 @@ Results-oriented Program Manager and strategic consultant with **12+ years** tra
 ## Key Achievements & Metrics
 
 ### **Quantifiable Results**
-- **200+ users** managed annually in complex academic program environments
-- **12,000+ stakeholders** coordinated as primary organizational contact
-- **30% efficiency improvement** achieved through systematic process optimization
-- **100% compliance** maintained across multiple regulated environments
+- **200+ students** managed annually in complex academic program environments
+- **12,000+ stakeholders** coordinated as primary organizational contact (alumni, employer partners)
+- **30% admissions cycle improvement** achieved through systematic timeline establishment and tracking system implementation
+- **100% compliance** maintained across multiple regulated academic environments
 - **Cross-functional coordination** with diverse teams (faculty, administration, students, external partners)
 
 ### **Technology Adoption Success**
-- **Digital transformation leadership** from paper-based to integrated digital systems
-- **Multi-platform coordination** (SIS, CRM, learning management systems)
-- **User-centered design** through systematic feedback collection and iterative improvement
-- **Training program development** using professional tools and methodologies
+- **Digital transformation leadership** transitioning from paper-based to integrated digital systems (Microsoft Dynamics, Empower SIS)
+- **Multi-platform coordination** (USC SIS, AdviseUSC, Salesforce integration)
+- **User-centered design** through systematic feedback collection and iterative improvement methods
+- **Training program development** using professional tools (Articulate 360, Google Workspace)
 
 ### **Regulatory Environment Excellence**
 - **Academic compliance expertise** (FERPA, Title IX) applicable to utility regulations (FERC, NERC)
@@ -177,7 +177,7 @@ Results-oriented Program Manager and strategic consultant with **12+ years** tra
 | **Microsoft 365 Implementation** | Google Workspace advanced user + recent Power BI certification | Comparable platform expertise with rapid learning capability |
 | **Training Design & Delivery** | Articulate 360, multi-modal programs, user-centered research | Proven ability to create effective adoption strategies |
 | **Regulatory Compliance** | 100% compliance in academic environments (FERPA, Title IX) | Understanding of documentation and audit requirements |
-| **Change Management** | 200+ user technology rollouts, 30% efficiency improvements | Systematic approach to stakeholder adoption |
+| **Change Management** | Program management for 200+ students, admissions cycle improvements | Systematic approach to stakeholder coordination and process improvement |
 | **Documentation Excellence** | Digital resource development, technical writing, process documentation | Comprehensive documentation systems for operational use |
 | **Stakeholder Coordination** | 12,000+ multi-level stakeholder management | Experience with diverse user groups and communication needs |
 
