@@ -3,6 +3,8 @@
 This portfolio showcases strategic consulting work in Microsoft 365, Power BI, and digital transformation for regulated industries. It includes dashboard designs, training frameworks, technical documentation, and professional development assets.
 
 ## 🔍 Repo Structure Overview
+
+```
 .
 ├── assets
 │   └── images
@@ -60,6 +62,8 @@ This portfolio showcases strategic consulting work in Microsoft 365, Power BI, a
         └── interview-preparation-gpt.md
 
 34 directories, 22 files
+```
+
 ## 📌 Quick Access
 
 - [Power BI Samples](projects/power-bi-samples/)
