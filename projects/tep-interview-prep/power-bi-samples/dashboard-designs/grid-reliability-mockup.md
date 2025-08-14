@@ -36,10 +36,12 @@
 ## Dashboard Layout Design
 
 ### Header Section
+<pre>
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │  TEP Grid Reliability Dashboard          [Real-time Status: ●NORMAL]        │
 │  Last Updated: 2025-08-13 14:35:22      Active Outages: 3 | Customers: 847  │
 └─────────────────────────────────────────────────────────────────────────────┘
+</pre>
 
 ### Main Dashboard Layout
 
@@ -52,13 +54,15 @@
 - Weather overlay with impact zones
 
 **Current Alerts Panel**
+<pre>
 🔴 CRITICAL ALERTS (2)
-• Transformer overload - Substation 47A
-• Voltage deviation - Circuit 23B
+- Transformer overload - Substation 47A
+- Voltage deviation - Circuit 23B
 
 🟡 WARNING ALERTS (5)  
-• Equipment maintenance due - Line 15C
-• High load forecast - District 3
+- Equipment maintenance due - Line 15C
+- High load forecast - District 3
+</pre>
 
 **System Health Gauges**
 - Frequency stability (59.95-60.05 Hz)
@@ -170,3 +174,4 @@ AVERAGE(
 ---
 
 *This dashboard design demonstrates understanding of utility operations, regulatory requirements, and the critical nature of grid reliability monitoring for TEP's 458,000+ customers across Southern Arizona.*
+
