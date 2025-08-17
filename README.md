@@ -82,7 +82,7 @@ To accelerate Microsoft 365 adoption and empower users, I’ve built a custom GP
 - 📊 Exploring Power BI dashboard ideas and use cases  
 - 🛡️ Planning governance, change management, and rollout strategies  
 
-🔗 [Launch the Microsoft 365 Enablement Advisor ↗](https://chatgpt.com/g/g-689d345b71d0819184d2fa9c40af85d5-microsoft-365-strategy-advisor)
+🔗 [Launch the Microsoft 365 Enablement Advisor ↗](https://chatgpt.com/g/g-689d345b71d0819184d2fa9c40af85d5-enterprise-enablement-advisor)
 
 ### How to Use It
 
