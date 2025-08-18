@@ -4,7 +4,7 @@
 [![Power BI Certified](https://img.shields.io/badge/Power_BI-DataCamp_Certified-green)](https://www.datacamp.com)  
 [![Microsoft 365 Specialist](https://img.shields.io/badge/Microsoft_365-Specialist-orange)](https://learn.microsoft.com)  
 [![Custom GPT](https://img.shields.io/badge/Custom_GPT-Empower365_Utility_Workforce_Assistant-blueviolet)](https://chatgpt.com/g/g-68a373d85e9c8191b485d871c96160a0-empower365-utility-workforce-assistant)  
-[![UCLA Doctoral Research](https://img.shields.io/badge/UCLA-Ed.D._Candidate-003B5C)](https://www.ucla.edu)  
+[![UCLA Doctoral Research](https://img.shields.io/badge/UCLA-Ed.D._Student-003B5C)](https://www.ucla.edu)  
 [![Inclusive Innovation](https://img.shields.io/badge/Approach-Inclusive_and_Research_Driven-purple)](#)
 
 Helping organizations unlock the full potential of Microsoft 365, Copilot, and Power BI through thoughtful strategy, clear documentation, and engaging training experiences.
