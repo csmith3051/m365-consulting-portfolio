@@ -3,7 +3,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Consulting_Projects-blue)](https://github.com/csmith3051/m365-consulting-portfolio)  
 [![Power BI Certified](https://img.shields.io/badge/Power_BI-DataCamp_Certified-green)](https://www.datacamp.com)  
 [![Microsoft 365 Specialist](https://img.shields.io/badge/Microsoft_365-Specialist-orange)](https://learn.microsoft.com)  
-[![Custom GPT](https://img.shields.io/badge/Custom_GPT-M365_Enablement_Agent-blueviolet)](https://chatgpt.com/g/g-689d345b71d0819184d2fa9c40af85d5-microsoft-365-strategy-advisor)  
+[![Custom GPT](https://img.shields.io/badge/Custom_GPT-M365_Enablement_Agent-blueviolet)](https://chatgpt.com/g/g-68a373d85e9c8191b485d871c96160a0-empower365-utility-workforce-assistant)  
 [![UCLA Doctoral Research](https://img.shields.io/badge/UCLA-Ed.D._Candidate-003B5C)](https://www.ucla.edu)  
 [![Inclusive Innovation](https://img.shields.io/badge/Approach-Inclusive_and_Research_Driven-purple)](#)
 
