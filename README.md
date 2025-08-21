@@ -29,12 +29,14 @@ Hi there. I’m Corinne, a Microsoft 365 Consultant with over a decade of experi
 
 I’m currently completing my doctorate at UCLA, where I study how diverse teams drive innovation in technology. That lens informs everything I build—from dashboards to training kits—with empathy, clarity, and strategic foresight.
 
-I specialize in:
-- Microsoft 365 strategy, governance, and enablement  
-- Power BI dashboards and data storytelling  
-- Copilot prompt design and AI adoption  
-- Change management and stakeholder communications  
-- Inclusive, research-informed consulting practices  
+## My Capabilities
+
+- **Microsoft 365**: Strategy, governance, and enablement  
+- **AI & Automation**: Copilot prompt design and AI adoption  
+- **Data & Analytics**: Power BI dashboards and data storytelling  
+- **Documentation**: Development of technical documentation and quick-start guides  
+- **Change Management**: Stakeholder communications and adoption strategies  
+- **Consulting**: Inclusive, research-informed practices  
 
 ---
 
